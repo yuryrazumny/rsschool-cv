@@ -12,4 +12,4 @@
 
 7. I studied at ITMO University. Listened to lectures of Epam, took online courses on html, css on [sololearn](https://www.sololearn.com), [html academy](https://htmlacademy.ru).
 
-8. English has existed since primary school, but in the last few classes, it was very weak. At university English was 3 years, during the period of study my level was about b2, at the moment this level fluctuates between **a2-b1**.
+8. English has existed since primary school, but in the last few classes, it was very weak. At university English was 3 years, during the period of study my level was about b2, at the moment this level fluctuates between **a2-b1**(elementary-intermediate).
